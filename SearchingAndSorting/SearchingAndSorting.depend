@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1700226402 source:d:\meowyy\searchingandsorting\src\binarysearch.cpp
+	"BinarySearch.h"
+
+1700226256 d:\meowyy\searchingandsorting\include\binarysearch.h
+	<vector>
+
+1700226409 source:d:\meowyy\searchingandsorting\src\bubblesort.cpp
+	"BubbleSort.h"
+
+1700226348 d:\meowyy\searchingandsorting\include\bubblesort.h
+	<vector>
+
+1700226235 source:d:\meowyy\searchingandsorting\src\linearsearch.cpp
+	"LinearSearch.h"
+
+1700226208 d:\meowyy\searchingandsorting\include\linearsearch.h
+	<vector>
+
+1700226479 source:d:\meowyy\searchingandsorting\main.cpp
+	<iostream>
+	"LinearSearch.h"
+	"BinarySearch.h"
+	"BubbleSort.h"
+	"SelectionSort.h"
+	"MergeSort.h"
+
+1700226691 d:\meowyy\searchingandsorting\include\selectionsort.h
+	<vector>
+
+1700226659 d:\meowyy\searchingandsorting\include\mergesort.h
+	<vector>
+
+1700226426 source:d:\meowyy\searchingandsorting\src\mergesort.cpp
+	"MergeSort.h"
+
+1700226419 source:d:\meowyy\searchingandsorting\src\selectionsort.cpp
+	"SelectionSort.h"
+
